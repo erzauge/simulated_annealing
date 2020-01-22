@@ -1,0 +1,6 @@
+[submodule "tclap"]
+	path = tclap
+	url = https://github.com/mirror/tclap.git
+[submodule "cub"]
+	path = cub
+	url = https://github.com/NVlabs/cub.git
