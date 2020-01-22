@@ -1,0 +1,16 @@
+*.tar
+*.out
+*.sys
+*.dat
+annealing_cpu
+annealing_gpu
+obj/*
+*.png
+*.o
+src/version.h
+*.d
+*.log
+*.block
+*.pdf
+*.tempsys
+*.a
